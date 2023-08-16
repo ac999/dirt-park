@@ -24,7 +24,7 @@ Creating a dirt park for dirt jumping mountain bikes is an exciting project! To 
 #### 1. Idea Conceptualization:
 * Define the park's goals and objectives, including catering to both beginner and intermediate riders.
 * Determine the ideal location within the community for the dirt park.
-* Documented [here](./IDEA_CONCEPTUALIZATION.md)
+* Documented [here](./IDEA_CONCEPTUALIZATION.md).
 #### 2. Location Scouting
 * Look for public land that could potentially be used for the dirt park. Engage with the City Hall to discuss the possibility of using the land and obtaining necessary permissions.
 #### 3. Community Engagement
