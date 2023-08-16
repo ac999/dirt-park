@@ -1,5 +1,5 @@
 # Define the park's goals and objectives, including catering to both beginner and intermediate riders.
-
+Questions to clarify the vision for the dirt park and establish clear goals and objectives that align with the needs of the community and the intended riding experience.
 ## Target Audience
 * Who is the primary user group for the dirt park?
 	* All skill levels - pumptrack for beginners, tabletops for intermediate, gaps for advanced.
