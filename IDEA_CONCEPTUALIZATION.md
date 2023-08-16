@@ -1,4 +1,4 @@
-### Define the park's goals and objectives, including catering to both beginner and intermediate riders.
+# Define the park's goals and objectives, including catering to both beginner and intermediate riders.
 
 ## Target Audience
 * Who is the primary user group for the dirt park?
